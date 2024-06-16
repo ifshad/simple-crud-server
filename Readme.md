@@ -1,7 +1,5 @@
 
-### Server `README.md`
 
-```markdown
 # User Management App - Server
 
 This is the backend of the User Management Application built with Express and MongoDB. It provides RESTful APIs for user authentication and CRUD operations.
