@@ -29,8 +29,8 @@ Before you begin, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/user-management-server.git
-cd user-management-server
+git clone https://github.com/ifshad/simple-crud-server
+cd simple-crud-server
 ```
 
 ### Install Dependencies
