@@ -42,8 +42,11 @@ npm install
 ### Configure Environment Variables
 
 Create a .env file in the root of the backend directory and add your MongoDB connection string:
+```bash
 DB_USERNAME=your-db-username
 DB_PASSWORD=your-db-password
+```
+
 
 ### Start the Server
 
